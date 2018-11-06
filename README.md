@@ -1,11 +1,10 @@
 # Mahjongg
+Wildly populare BeOS implementation with a rich and involved community that drove features and fun.
 
-Wildly populare BeOS implementation.  
 
-This game took on a life of its own.  The comunity was viberant and engaged.  The majority of the features came from direct IRC interactions
+The default tile set is an original scan of traditional tiles (provided by the community) and it original to this app, though it has showed up in many other versions over the years
 
-The included tile set was an original creation scanned in by a contributor and is an original copyrighted work of this game (though it has shown up accross the web over the years).
-
+![Tile Set](./TileSets/TileSet.png)
 
 
 # Note
